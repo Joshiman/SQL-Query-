@@ -1,2 +1,2 @@
-# MyfirstEver-
+# sql data EDA 
 Training 
